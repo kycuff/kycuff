@@ -12,7 +12,7 @@ I didn't start my career writing code, but when I discovered the power of softwa
 ## 🔑 Key Repositories
 
 Here are some curated lists of my projects:
--   **[🎓 University Projects & Assignments]([https://github.com/stars/YourUserName/lists/university-projects](https://github.com/stars/kycuff/lists/university-projects))** - A collection of my major academic work, from data structures to full-stack applications.
+-   **[🎓 University Projects & Assignments](https://github.com/stars/kycuff/lists/university-projects)** - A collection of my major academic work, from data structures to full-stack applications.
 -   **💡 Personal & Side Projects** - (List coming soon) Projects I've built in my own time to learn new skills and experiment with technology.
 -   **🛠️ Useful Tools & Snippets** - (List coming soon) A list of helpful tools, configurations, and code snippets I've starred.
 
